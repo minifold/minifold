@@ -1,4 +1,14 @@
-### Hi there 👋
+🌌 Astrophysical Data Analysis and Machine Learning
+
+🌐 Personal CV/Website coming soon!
+
+😄 Pronouns: He/Him/His
+
+⌨️ Languages: Python, C, CSS, HTML, Java, BASH, Shell
+
+❤️ OS: Manjaro Arch Linux and Ubuntu
+
+🌱 Learning: Haskell, Julia, MySQL
 
 <!--
 **doc-ock/doc-ock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
