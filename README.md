@@ -8,7 +8,7 @@
 
 ❤️ OS: Manjaro Arch Linux and Ubuntu
 
-🌱 Learning: Haskell, Julia, MySQL
+🌱 Learning: Haskell, Julia, Rust
 
 <!--
 **doc-ock/doc-ock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
