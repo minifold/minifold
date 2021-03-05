@@ -6,7 +6,7 @@
 
 ⌨️ Languages: Python, C, CSS, HTML, Java, BASH, Shell
 
-❤️ OS: Manjaro Arch Linux and Ubuntu
+❤️ OS: NixOS Linux and Ubuntu
 
 🌱 Learning: Haskell, Julia, Rust
 
