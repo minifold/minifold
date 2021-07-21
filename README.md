@@ -1,4 +1,4 @@
-🌌 Astrophysical Data Analysis and Machine Learning
+🌌 Astronomical Data Analysis and Machine Learning
 
 🌐 Personal CV/Website coming soon!
 
