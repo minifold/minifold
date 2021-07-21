@@ -1,19 +1,31 @@
-
+<table width="100%"> 
+  <tr>
+  <td width="50%">
+  <br><p align="center">
+ 
 🌌 Astronomical Data Analysis and Machine Learning
 
 🌐 Personal CV/Website coming soon!
 
 😄 Pronouns: He/Him/His
 
-⌨️ Languages: Python, C, CSS, HTML, Java, BASH, Shell
+⌨️ Languages: Python, C, Javascript, Java, Bash
 
-❤️ OS: NixOS Linux and Ubuntu
+❤️ OS: NixOS and Ubuntu
 
 🌱 Learning: Haskell, Julia, Rust
   
+  <br>
+  </p>
+  </td>
+  <td width="50%">
+    
 [![github stats](https://github-readme-stats.vercel.app/api?username=doc-ock&include_all_commits=true&show_icons=true&hide_title=true&hide_border=true&theme=dracula
 )](https://github.com/doc-ock)
 
+   </td>
+  </table>
+  
 <!--
 **doc-ock/doc-ock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
