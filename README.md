@@ -10,6 +10,7 @@
 
 🌱 Learning: Haskell, Julia, Rust
 
+[![github stats](https://github-readme-stats.vercel.app/api?username=doc-ock&include_all_commits=true&show_icons=true&hide_title=true&hide_border=true)](https://github.com/doc-ock)
 <!--
 **doc-ock/doc-ock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
