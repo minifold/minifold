@@ -19,9 +19,11 @@
   </p>
   </td>
   <td width="50%">
-    
+  
 [![github stats](https://github-readme-stats.vercel.app/api?username=doc-ock&include_all_commits=true&show_icons=true&hide_title=true&hide_border=true&theme=dracula
 )](https://github.com/doc-ock)
+
+[![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doc-ock&layout=compact&hide_title=true&hide_border=true&theme=dracula)](https://github.com/doc-ock)
 
    </td>
   </table>
