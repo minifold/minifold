@@ -9,7 +9,7 @@
 
 😄 Pronouns: He/Him/His
 
-⌨️ Languages: Python, C, Javascript, Java, Bash
+⌨️ Languages: Python, C, Javascript, Java, *sh
 
 ❤️ OS: NixOS and Ubuntu
 
