@@ -9,9 +9,9 @@
 
 😄 Pronouns: He/Him/His
 
-⌨️ Languages: Python, C, Javascript, Java, *sh
+⌨️ Languages: Python, C, Lua, Javascript, Java, *sh
 
-❤️ OS: NixOS and Ubuntu
+❤️ OS: Arch btw, NixOS
 
 🌱 Learning: Haskell, Julia, Rust
   
