@@ -3,15 +3,15 @@
   <td width="50%">
   <br><p align="center">
  
-🌌 Astronomical Data Analysis and Machine Learning
+🌌 Astrophysical Data Analysis and Machine Learning
 
-🌐 Personal CV/Website coming soon!
+🌐 Emacs enthusiast 
 
 ⌨️ Languages: Python, C, Lua, Javascript, Java, *sh
 
 ❤️ OS: Arch btw, NixOS
 
-🌱 Learning: Haskell, Julia, Rust
+🌱 Learning: Haskell, Rust
   
   <br>
   </p>
