@@ -19,9 +19,9 @@
   <td width="50%">
   
 [![github stats](https://github-readme-stats.vercel.app/api?username=minifold&include_all_commits=true&show_icons=true&hide_title=true&hide_border=true&theme=tokyonight
-)](https://github.com/doc-ock)
+)](https://github.com/minifold)
 
-[![top langs](https://github-readme-streak-stats.herokuapp.com/?user=minifold&theme=tokyonight&hide_border=true)](https://github.com/doc-ock)
+[![top langs](https://github-readme-streak-stats.herokuapp.com/?user=minifold&theme=tokyonight&hide_border=true)](https://github.com/minifold)
 
    </td>
   </table>
