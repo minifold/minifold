@@ -18,10 +18,10 @@
   </td>
   <td width="50%">
   
-[![github stats](https://github-readme-stats.vercel.app/api?username=doc-ock&include_all_commits=true&show_icons=true&hide_title=true&hide_border=true&theme=tokyonight
+[![github stats](https://github-readme-stats.vercel.app/api?username=minifold&include_all_commits=true&show_icons=true&hide_title=true&hide_border=true&theme=tokyonight
 )](https://github.com/doc-ock)
 
-[![top langs](https://github-readme-streak-stats.herokuapp.com/?user=doc-ock&theme=tokyonight&hide_border=true)](https://github.com/doc-ock)
+[![top langs](https://github-readme-streak-stats.herokuapp.com/?user=minifold&theme=tokyonight&hide_border=true)](https://github.com/doc-ock)
 
    </td>
   </table>
