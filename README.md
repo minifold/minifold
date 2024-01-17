@@ -3,9 +3,11 @@
   <td width="50%">
   <br><p align="center">
  
-🌌 Astrophysical Data Analysis and Machine Learning
+🌌 Computational Astrophysics with a focus on Simulation and ML
 
-🌐 Emacs enthusiast 
+😈 Doom Emacs enthusiast 
+
+🎓 University of Central Florida
 
 ⌨️ Languages: Python, C, Lua, Javascript, Java, *sh
 
