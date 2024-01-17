@@ -3,7 +3,7 @@
   <td width="50%">
   <br><p align="center">
  
-🌌 Computational Astrophysics with a focus on Simulation and ML
+🌌 Computational Astrophysics focusing on Simulations and ML
 
 😈 Doom Emacs enthusiast 
 
