@@ -22,7 +22,7 @@
     
 [![github stats](https://github-readme-stats.vercel.app/api?username=minifold\&include_all_commits=true\&show_icons=true\&hide_title=true\&hide_border=true\&theme=tokyonight\&rank_icon=github)](https://github.com/minifold)
 
-[![top langs](https://streak-stats.demolab.com/?user=minifold&theme=tokyonight&hide_border=true)](https://github.com/minifold)
+[![gitHub streak](https://streak-stats.demolab.com?user=minifold&theme=tokyonight&hide_border=true&short_numbers=true&mode=weekly)](https://git.io/streak-stats)
 
    </td>
   </table>
