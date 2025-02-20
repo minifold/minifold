@@ -7,7 +7,7 @@
 
 😈 Doom Emacs enthusiast 
 
-🎓 University of Central Florida
+🎓 Incoming Oregon State University grad 🦫
 
 ⌨️ Languages: Python, C, Lua, Javascript, Java, *sh
 
