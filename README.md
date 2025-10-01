@@ -7,11 +7,11 @@
 
 😈 Doom Emacs enthusiast 
 
-🎓 Incoming Oregon State University grad 🦫
+🎓 First-year graduate student at Oregon State University 🦫
 
 ⌨️ Languages: Python, C, Lua, Javascript, Java, *sh
 
-❤️ OS: Arch btw, NixOS
+❤️ OS: Arch btw
 
 🌱 Learning: Haskell, Rust
   
