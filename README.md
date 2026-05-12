@@ -20,7 +20,7 @@
   </td>
   <td width="50%">
     
-[![GitHub Streak](https://streak-stats.demolab.com?user=minifold&theme=catppuccin-mocha)](https://git.io/streak-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=minifold&rank_icon=github&show_icons=true&theme=catppuccin-mocha)](https://github.com/anuraghazra/github-readme-stats)
 [![github streak](https://streak-stats.demolab.com?user=minifold&theme=catppuccin-mocha&short_numbers=true&mode=weekly)](https://git.io/streak-stats)
 
    </td>
